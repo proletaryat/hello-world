@@ -3,4 +3,4 @@ some hello-world stuff
 
 
 This is edit #1
-and then came edit #2
+final edit #3 removing edit #2
